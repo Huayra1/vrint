@@ -9,7 +9,7 @@ description = "A package that provides a verbose print function"
 authors = [
     { name = "Huayra1", email = "Huayra1@live.no" },
 ]
-license = { file = "LICENSE" }
+license = { file = "Licence" }
 readme = "README.md"
 requires-python = ">=3.6"
 

@@ -14,12 +14,11 @@ readme = "README.md"
 requires-python = ">=3.6"
 
 [project.urls]
-"Homepage" = "https://github.com/Huayra1/vrint",
-"Bug Tracker" = "https://github.com/Huayra1/vrint/issues",
-"Documentation" = "https://github.com/Huayra1/vrint/blob/main/README.md",
-"Source Code" = "https://github.com/Huayra1/vrint",
-"Changelog" = "https://github.com/Huayra1/vrint/blob/main/CHANGELOG.md",
-"License" = "https://github.com/Huayra1/vrint/blob/main/LICENSE",
-"Releases" = "https://github.com/Huayra1/vrint/releases",
-"Issues" = "https://github.com/Huayra1/vrint/issues",
-
+"Homepage" = "https://github.com/Huayra1/vrint"
+"Bug Tracker" = "https://github.com/Huayra1/vrint/issues"
+"Documentation" = "https://github.com/Huayra1/vrint/blob/main/README.md"
+"Source Code" = "https://github.com/Huayra1/vrint"
+"Changelog" = "https://github.com/Huayra1/vrint/blob/main/CHANGELOG.md"
+"License" = "https://github.com/Huayra1/vrint/blob/main/LICENSE"
+"Releases" = "https://github.com/Huayra1/vrint/releases"
+"Issues" = "https://github.com/Huayra1/vrint/issues"
